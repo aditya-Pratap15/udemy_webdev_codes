@@ -1,0 +1,2 @@
+https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f
+step 1=this documentation is for learning how to use inquirer.
